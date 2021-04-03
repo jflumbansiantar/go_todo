@@ -3,7 +3,7 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
-	model "apps/models"
+	model "github.com/jflumbansiantar/go_todo/apps/models"
 	"github.com/jinzhu/gorm"
 )
 

@@ -4,8 +4,8 @@ import (
 	"net/http"
 	log "github.com/sirupsen/logrus"
 	"github.com/gorilla/mux"
-	fmt
 	"io"
+	fmt
 )
 
 func init() {
